@@ -10,3 +10,4 @@
 6. Estimate a bounding box for vehicles detected.
 
 To read complete project description please download JUPYTER NOTEBOOK and view Project description.md
+Link to install Jupyter notebook: http://jupyter.org/install
