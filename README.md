@@ -12,6 +12,7 @@
 ## Notes:
 
 Code and Project description are Jupyter notebooks. Please use JUPYTER NOTEBOOK to view them completely.
+
 Link to install Jupyter notebook: http://jupyter.org/install
 
 Project report - CarND-Vehicle-Detection_Report.ipynb
