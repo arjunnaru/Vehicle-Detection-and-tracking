@@ -9,4 +9,4 @@
 5. Run your pipeline on a video stream (start with the test_video.mp4 and later implement on full project_video.mp4) and create a heat map of recurring detections frame by frame to reject outliers and follow detected vehicles.
 6. Estimate a bounding box for vehicles detected.
 
-To read complete project description please download ## jupyter notebook
+To read complete project description please download JUPYTER NOTEBOOK
