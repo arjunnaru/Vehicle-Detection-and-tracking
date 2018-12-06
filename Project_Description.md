@@ -31,7 +31,8 @@ It takes an image as an input and also other factors such as the colour spaces t
 The hog parameters and how they were chosen is discussed in a cell furhter down in this writeup as well as in the Python notebook attached
 
 ## Hog Visualization
-![image.png](attachment:image.png)
+
+
 
 ![image.png](attachment:image.png)
 
